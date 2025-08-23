@@ -12,3 +12,5 @@ Generations: A breakdown of different generational groups (e.g., Boomers, Gen X,
 Age by Chamber: A histogram displaying the distribution of ages.
 
 Members in Party: A bar chart comparing political party membership, showing Democrats (~15.8K), Republicans (~13.2K), and a small number of Independents (~135)  
+
+To see dashboard you can also vist this link: https://public.tableau.com/app/profile/roman.larkin/viz/CongressionalDemographics/CongressionalDemographics?publish=yes
