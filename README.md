@@ -3,7 +3,7 @@ This is my first dashboard in Tableau
 
 Data source: https://github.com/fivethirtyeight/data/tree/master/congress-demographics
 
-Short Description:
+Short Description of charts in Dashboard:
 
 Age in States: A choropleth map of the U.S. showing the average, max and min age (use parametr "Age" in the top right coner) across states.
 
