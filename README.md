@@ -1,5 +1,4 @@
 # Congressional-Demographics
-This is my first dashboard in Tableau
 
 Data source: https://github.com/fivethirtyeight/data/tree/master/congress-demographics
 
