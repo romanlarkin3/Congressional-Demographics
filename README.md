@@ -1,15 +1,18 @@
 # Congressional-Demographics-In-Tableau
 
-Data source: https://github.com/fivethirtyeight/data/tree/master/congress-demographics
+Data Source: [FiveThirtyEight – Congress Demographics](https://github.com/fivethirtyeight/data/tree/master/congress-demographics)
 
-Short Description of charts in Dashboard:
+This project provides an interactive Tableau dashboard that visualizes demographic patterns within the U.S. Congress. The data covers party affiliation, age distribution, and generational cohorts across states and chambers.
 
-Age in States: A choropleth map of the U.S. showing the average, max and min age (use parametr "Age" in the top right coner) across states.
+Dashboard Features:
 
-Generations: A breakdown of different generational groups (e.g., Boomers, Gen X, Gen Z, Millennials, Silent, Greatest, Lost, Progressive, Gilded, Missionary).
+	•	Age by State – Choropleth map of the U.S. displaying average, maximum, and minimum congressional ages (parameter Age available in the top-right corner).
+ 
+	•	Generational Breakdown – Categorization of members into generational groups (Boomers, Gen X, Millennials, Gen Z, Silent, Greatest, Lost, Progressive, Gilded, Missionary).
+ 
+	•	Age by Chamber – Histogram showing the age distribution of representatives and senators.
+ 
+	•	Party Representation – Bar chart comparing party membership: Democrats (~15.8K), Republicans (~13.2K), and Independents (~135).
 
-Age by Chamber: A histogram displaying the distribution of ages.
-
-Members in Party: A bar chart comparing political party membership, showing Democrats (~15.8K), Republicans (~13.2K), and a small number of Independents (~135)  
-
-To see dashboard you can also vist this link: https://public.tableau.com/app/profile/roman.larkin/viz/CongressionalDemographics/CongressionalDemographics?publish=yes
+Interactive Dashboard:
+You can explore the full dashboard here: [Congressional Demographics – Tableau Public ](https://public.tableau.com/app/profile/roman.larkin/viz/CongressionalDemographics/CongressionalDemographics?publish=yes)
